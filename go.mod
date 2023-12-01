@@ -1,4 +1,4 @@
-module protos
+module github.com/rainreflect/protos
 
 go 1.21.1
 
